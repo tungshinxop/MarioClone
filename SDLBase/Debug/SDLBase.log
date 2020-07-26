@@ -1,0 +1,4 @@
+﻿  RealLevel2.cpp
+E:\Y1S2\Game Engine\Mario Game 3-5-2020\SDLWindow\SDLBase\PowBlock.h(19,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Y1S2\Game Engine\Mario Game 3-5-2020\SDLWindow\SDLBase\RealLevel2.cpp(264): warning C4715: 'RealLevel2::SetUpLevel': not all control paths return a value
+  SDLBase.vcxproj -> E:\Y1S2\Game Engine\Mario Game 3-5-2020\SDLWindow\Debug\SDLBase.exe
